@@ -1,0 +1,1 @@
+C:\Program Files\Java\jdk-11.0.4\bin\javaw.exe --module-path "C:\Program Files\Java\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml -Dfile.encoding=Cp1252 -classpath "C:\Users\front\Documents\CompSci\CS400\ATeamNetwork" application.Main
